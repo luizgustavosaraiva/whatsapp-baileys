@@ -1,0 +1,233 @@
+[
+	{
+		"id": "0867018e-d837-4fc7-b20b-4a6bb5a933c3",
+		"name": "Taça Merengue",
+		"price": 24,
+		"promotional_price": 18,
+		"store": {
+			"id": "885e04f8-6825-444a-8fb3-69d3dbb3524f",
+			"name": "Amazone Acai Shop Bebedouro",
+			"slug": "bebedouro-sp/amazone-acai-shop-bebedouro-centro"
+		}
+	},
+	{
+		"id": "932b4f4c-89c9-4a5a-88ca-cda3eae7108e",
+		"name": "Vinho Alemão Black Tower Rivaner Branco 750ml 750 ml",
+		"price": 79.9,
+		"promotional_price": 74.3,
+		"store": {
+			"id": "9ac20b20-b66c-40d2-b76a-17a6e256c196",
+			"name": "Tazza Emporium - Vinhos e Chocolates",
+			"slug": "bebedouro-sp/tazza-emporium---vinhos-e-chocolates-residencial-doutor-hercules-pereira-hortal"
+		}
+	},
+	{
+		"id": "a08a4c14-4064-4e18-9902-e8b3826432ac",
+		"name": "Taça Tentação",
+		"price": 24,
+		"promotional_price": 18,
+		"store": {
+			"id": "885e04f8-6825-444a-8fb3-69d3dbb3524f",
+			"name": "Amazone Acai Shop Bebedouro",
+			"slug": "bebedouro-sp/amazone-acai-shop-bebedouro-centro"
+		}
+	},
+	{
+		"id": "17f7828d-349b-4a14-b085-6d32c740e68a",
+		"name": "Copo 550 ml",
+		"price": 18,
+		"promotional_price": 17.1,
+		"store": {
+			"id": "a923ec24-d598-4651-b8f2-fb607d91a443",
+			"name": "Açaí do Ph",
+			"slug": "bebedouro-sp/acai-do-ph-jardim-claudia-ii"
+		}
+	},
+	{
+		"id": "56c59755-b30d-45f8-8972-76a532a8503a",
+		"name": "Copo 440 ml",
+		"price": 16,
+		"promotional_price": 15.2,
+		"store": {
+			"id": "a923ec24-d598-4651-b8f2-fb607d91a443",
+			"name": "Açaí do Ph",
+			"slug": "bebedouro-sp/acai-do-ph-jardim-claudia-ii"
+		}
+	},
+	{
+		"id": "6828c77f-20b8-4915-b340-4dc648ea8584",
+		"name": "Copo 770 ml",
+		"price": 22,
+		"promotional_price": 20.9,
+		"store": {
+			"id": "a923ec24-d598-4651-b8f2-fb607d91a443",
+			"name": "Açaí do Ph",
+			"slug": "bebedouro-sp/acai-do-ph-jardim-claudia-ii"
+		}
+	},
+	{
+		"id": "cd2896fc-f664-49b5-85a3-84399aa28200",
+		"name": "Copo 330 ml",
+		"price": 14,
+		"promotional_price": 13.3,
+		"store": {
+			"id": "a923ec24-d598-4651-b8f2-fb607d91a443",
+			"name": "Açaí do Ph",
+			"slug": "bebedouro-sp/acai-do-ph-jardim-claudia-ii"
+		}
+	},
+	{
+		"id": "5ef5894e-1c3c-46c6-b827-f522823a7ecb",
+		"name": "Pó para Sorvete Yoki Coco Sachê 150g",
+		"price": 6.82,
+		"promotional_price": 5.16,
+		"store": {
+			"id": "bb48e077-451a-4976-8131-42da2e66438f",
+			"name": "Supermercado São Francisco",
+			"slug": "bebedouro-sp/supermercado-sao-francisco-centro"
+		}
+	},
+	{
+		"id": "92029765-7b0d-47d9-ae8b-615b07412e4f",
+		"name": "Pó para Sorvete Yoki Chocolate Sachê 150g",
+		"price": 6.82,
+		"promotional_price": 5.16,
+		"store": {
+			"id": "bb48e077-451a-4976-8131-42da2e66438f",
+			"name": "Supermercado São Francisco",
+			"slug": "bebedouro-sp/supermercado-sao-francisco-centro"
+		}
+	},
+	{
+		"id": "bfbab4ec-bb91-4903-8a63-74d15879154a",
+		"name": "Pó para Sorvete Yoki Coco Sachê 150g",
+		"price": 6.82,
+		"promotional_price": 5.16,
+		"store": {
+			"id": "bb48e077-451a-4976-8131-42da2e66438f",
+			"name": "Supermercado São Francisco",
+			"slug": "bebedouro-sp/supermercado-sao-francisco-centro"
+		}
+	},
+	{
+		"id": "e94bf2fe-3f45-4d33-a604-545950f56352",
+		"name": "Pó para Sorvete Yoki Chocolate Sachê 150g",
+		"price": 6.82,
+		"promotional_price": 5.16,
+		"store": {
+			"id": "bb48e077-451a-4976-8131-42da2e66438f",
+			"name": "Supermercado São Francisco",
+			"slug": "bebedouro-sp/supermercado-sao-francisco-centro"
+		}
+	},
+	{
+		"id": "18ecbbc3-2565-46b7-9a81-406ed642fd8a",
+		"name": "Kit família (1pote de sorvete,1coca cola 2l e 10 cestinhas).",
+		"price": 42.9,
+		"promotional_price": 40,
+		"store": {
+			"id": "f1aaae55-4bcf-4baa-89b8-5d962deb8e33",
+			"name": "Sorveteria Avenida",
+			"slug": "bebedouro-sp/sorveteria-avenida-jardim-alvorada"
+		}
+	},
+	{
+		"id": "17820213-6da6-450a-a339-f71e74f3c2e3",
+		"name": "2 potes de sorvete granpalato 1,5ltrs (flocos e brigadeiro)",
+		"price": 47.6,
+		"promotional_price": 47,
+		"store": {
+			"id": "f1aaae55-4bcf-4baa-89b8-5d962deb8e33",
+			"name": "Sorveteria Avenida",
+			"slug": "bebedouro-sp/sorveteria-avenida-jardim-alvorada"
+		}
+	},
+	{
+		"id": "4307d648-eec6-4b22-a117-1c9e77f3fd66",
+		"name": "Sobremesa Pronta!",
+		"price": 39.99,
+		"promotional_price": 37.99,
+		"store": {
+			"id": "f1aaae55-4bcf-4baa-89b8-5d962deb8e33",
+			"name": "Sorveteria Avenida",
+			"slug": "bebedouro-sp/sorveteria-avenida-jardim-alvorada"
+		}
+	},
+	{
+		"id": "273d5acf-3dd7-4054-9406-85fc6b2dc27b",
+		"name": "Milk Shake Oreo 500 ml",
+		"price": 20,
+		"promotional_price": 18,
+		"store": {
+			"id": "a9c108f2-a8ec-4183-9da4-3a22a017e831",
+			"name": "Cocktails Delivery Bebedouro",
+			"slug": "bebedouro-sp/cocktails-delivery-bebedouro-centro"
+		}
+	},
+	{
+		"id": "57d8d673-bbbb-41ec-9396-974d95924ecc",
+		"name": "Milk Shake Morango Nesquik 500 ml",
+		"price": 20,
+		"promotional_price": 18,
+		"store": {
+			"id": "a9c108f2-a8ec-4183-9da4-3a22a017e831",
+			"name": "Cocktails Delivery Bebedouro",
+			"slug": "bebedouro-sp/cocktails-delivery-bebedouro-centro"
+		}
+	},
+	{
+		"id": "c10f2d2f-a232-40f5-a64b-468c287d9457",
+		"name": "Milk Shake Alpino 500 ml",
+		"price": 23,
+		"promotional_price": 20,
+		"store": {
+			"id": "a9c108f2-a8ec-4183-9da4-3a22a017e831",
+			"name": "Cocktails Delivery Bebedouro",
+			"slug": "bebedouro-sp/cocktails-delivery-bebedouro-centro"
+		}
+	},
+	{
+		"id": "2c11472d-a788-42a7-9d9a-dbbc456fa351",
+		"name": "Kit vaca preta",
+		"price": 35,
+		"promotional_price": 34,
+		"store": {
+			"id": "f1aaae55-4bcf-4baa-89b8-5d962deb8e33",
+			"name": "Sorveteria Avenida",
+			"slug": "bebedouro-sp/sorveteria-avenida-jardim-alvorada"
+		}
+	},
+	{
+		"id": "2e3b8bd2-3ff5-4a38-8d84-1b095936e5c9",
+		"name": "Kit 10 palitos",
+		"price": 15,
+		"promotional_price": 14.5,
+		"store": {
+			"id": "f1aaae55-4bcf-4baa-89b8-5d962deb8e33",
+			"name": "Sorveteria Avenida",
+			"slug": "bebedouro-sp/sorveteria-avenida-jardim-alvorada"
+		}
+	},
+	{
+		"id": "3ec478ce-9248-47b0-85c7-aeee3c401081",
+		"name": "Copo recheado de ameixa",
+		"price": 10,
+		"promotional_price": 8,
+		"store": {
+			"id": "f1aaae55-4bcf-4baa-89b8-5d962deb8e33",
+			"name": "Sorveteria Avenida",
+			"slug": "bebedouro-sp/sorveteria-avenida-jardim-alvorada"
+		}
+	},
+	{
+		"id": "ed88f028-df6d-4d83-8904-70dbaa68297a",
+		"name": "Leve 2 pague 1  (Na compra de 1copo(300ml) recheado sabor Ninho trufado, vc ganha outro copo recheado(300ml) sabor torta de chocolate)",
+		"price": 20,
+		"promotional_price": 15,
+		"store": {
+			"id": "f1aaae55-4bcf-4baa-89b8-5d962deb8e33",
+			"name": "Sorveteria Avenida",
+			"slug": "bebedouro-sp/sorveteria-avenida-jardim-alvorada"
+		}
+	}
+]
